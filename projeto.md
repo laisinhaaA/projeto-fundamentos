@@ -1,4 +1,4 @@
-<img src='/img/logo.png' alt='logo da empresa' width='150px' heidth='150px'/>
+<img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
 # *FIBONACCI MANAGEMENT SYSTEM*
 
