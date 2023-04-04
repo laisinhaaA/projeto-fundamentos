@@ -5,8 +5,7 @@
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
-|NOME|CARGO|E-MAIL|
-|:---|:---|:---|
+|Amara Liz Egler Cardoso|programadora|aammaaraalliizzx@gmail.com|
 |Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
 
 # Sumário
