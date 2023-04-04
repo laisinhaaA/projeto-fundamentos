@@ -1,11 +1,7 @@
 
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-<<<<<<< HEAD
-# *FIBONACCI MANAGEMENT SYSTEMs*
-=======
 # *FIBONACCI MANAGEMENT SYSTEMas*
->>>>>>> 006e91641d038e90d6d62a1fd9b63747c258819a
 
 # PROJETO DE SOFTWARE
 
