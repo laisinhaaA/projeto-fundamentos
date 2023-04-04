@@ -1,6 +1,6 @@
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
-# *FIBONACCI MANAGEMENT SYSTEM*
+# *FIBONACCI MANAGEMENT SYSTEMas*
 
 # PROJETO DE SOFTWARE
 
