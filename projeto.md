@@ -8,7 +8,8 @@
 ## *Stakeholders*
 |Amara Liz Egler Cardoso|programadora|aammaaraalliizzx@gmail.com|
 |Laís Amaro da Luz batista|Gerente de Projeto|laisamaroluz@gmail.com|
-|Emylly Samylly César Gritti |Designer de Interface com o Usuário |cesaremylly@gmail.com |
+|Emylly Samylly César Gritti|Designer de Interface com o Usuário|cesaremylly@gmail.com|
+|João Phelipe de Souza Barbosa|Analista de Requisitos|joaophelipesouza0516@gmail.com|
 
 # Sumário
 
