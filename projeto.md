@@ -6,6 +6,8 @@
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
+|NOME|CARGO|E-MAIL|
+|:---|:---|:---|
 |Amara Liz Egler Cardoso|programadora|aammaaraalliizzx@gmail.com|
 |Laís Amaro da Luz batista|Gerente de Projeto|laisamaroluz@gmail.com|
 |Emylly Samylly César Gritti|Designer de Interface com o Usuário|cesaremylly@gmail.com|
