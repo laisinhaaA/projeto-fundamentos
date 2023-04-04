@@ -14,6 +14,7 @@
 |Laís Amaro da Luz batista|Gerente de Projeto|laisamaroluz@gmail.com|
 |Emylly Samylly César Gritti|Designer de Interface com o Usuário|cesaremylly@gmail.com|
 |João Phelipe de Souza Barbosa|Analista de Requisitos|joaophelipesouza0516@gmail.com|
+|Kauan Richard Moreira de Andrade|Analista de Testes|stokentin@gmail.com|
 
 # Sumário
 
