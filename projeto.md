@@ -1,13 +1,19 @@
+
 <img src='/img/logo.png' alt='logo da empresa' width='50px' heidth='50px'/>
 
+<<<<<<< HEAD
 # *FIBONACCI MANAGEMENT SYSTEMs*
+=======
+# *FIBONACCI MANAGEMENT SYSTEMas*
+>>>>>>> 006e91641d038e90d6d62a1fd9b63747c258819a
 
 # PROJETO DE SOFTWARE
 
 ## *Stakeholders*
-|NOME|CARGO|E-MAIL|
-|:---|:---|:---|
-|Wagner da Silva Ferreira Filho|Gerente de Projeto|wagner.ferreira@ifro.edu.br|
+|Amara Liz Egler Cardoso|programadora|aammaaraalliizzx@gmail.com|
+|Laís Amaro da Luz batista|Gerente de Projeto|laisamaroluz@gmail.com|
+|Emylly Samylly César Gritti|Designer de Interface com o Usuário|cesaremylly@gmail.com|
+|João Phelipe de Souza Barbosa|Analista de Requisitos|joaophelipesouza0516@gmail.com|
 
 # Sumário
 
