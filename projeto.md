@@ -47,9 +47,9 @@
 | ITEM | DESCRIÇÃO|
 |:---|:---|
 | NOME DO PROJETO | LA CHEF RESTAURANT |
-| GERENTE DO PROJETO | Lais Amaro da Luz |
+| GERENTE DO PROJETO | Laís Amaro da Luz |
 | PRINCIPAL OBJETIVO | Apresentação e avaliação das empresas filiadas espalhadas pela França |
-| BENEFÍCIOS ESPERADOS |* Acompanhamento do feedback dos clientes;<br/>* Satisfação dos clientes;<br/>* Melhorias abdicadas por meio dos feedbacks;<br/>* Divulgação do restaurante;<br/>* |
+| BENEFÍCIOS ESPERADOS |* Acompanhamento do feedback dos clientes;<br/>* Satisfação dos clientes;<br/>* Melhorias abdicadas por meio dos feedbacks;<br/>* Divulgação do restaurante;<br/> |
 | INÍCIO E TÉRMINO PREVISTOS | 14/03/2023 - 07/12/2023 |
 
 [ [INÍCIO](#la-chef-restaurant) ]
