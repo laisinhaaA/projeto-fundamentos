@@ -62,14 +62,13 @@ Este documento destina-se aos clientes, engenheiros, gerentes e demais stakehold
 
 ## CONCEPÇÃO DO SISTEMA
 
-Foram usados três métodos para que pudessem ser obtidos os requisitos do sistema:
+Para que fosse obtido os requisitos que a empresa desejava foram utilizados os seguintes métodos:
 * Entrevista:
-  * Discussões individuais de um representante da equipe com José de Arimatéia, diretor da Escola Fibonacci.
+  * Foram realizadas reuniões e discussões com um representante da equipe e com representantes da equipe do restaurante La Chef.
 * Consulta com especialista:
-  * Gustavo, coordenador de pós-graduação do curso de Ciências Contábeis da Universidade Federal orientou na concepção do sistema devido sua experiência em trabalhar em cursos semipresenciais e ser um dos consultores da empresa;
-  * Alex Sandro Gomes, professor do Centro de Informática da Universidade Federal orientou na análise de requisitos devido a sua grande experiência em desenvolvimento de software educativo;
-  * Silvio Zanchetti, coordenador do curso on-line ITUC/AL, foi outro entrevistado;
-  * Manasses dos Santos Silva, responsável pelo treinamento dos funcionários do laboratório HEXAL BRASIL.
+  * Wagner da Silva Ferreira Filho que atualmente é professor no IFRO Campus Vilhena. Possui graduação em Tecnologia em Sistemas de Informação - Faculdade de Tecnologia do Vale do Araguaia, especialização em Ciência da Computação - Faculdades Unidas do Vale do Araguaia. Orientação devido suas experiência nas áreas de Tecnologia da Informação e Sistemas Operacionais;
+  * Bruno Rover Dal Prá, atualmente é professor no IFRO Campus Vilhena, possui graduação em Engenharia da Computação pela Universidade Tuiuti do Paraná, mestrado em Desenvolvimento de Tecnologia pelo LACTEC (Instituto de Tecnologia para o Desenvolvimento). Orientação devido sua experiência em programação de computadores, desenvolvimento de tecnologia e gestão da tecnologia, e banco de dados;
+  * Valeria Arenhart, Orientação nas áreas de empreendedorismo.
 * Prototipação:
   * Representações das interfaces gráficas com diferentes níveis de fidelidade, aprovadas pela empresa contratante.
 
@@ -91,7 +90,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto consiste na construção de uma ferramenta para gerenciamento de aprendizado *(Learning Management System - LMS)*, que possa atender os requisitos da Escola Fibonacci, no fator de educação à distância. O projeto visa auxiliar o sistema de ensino através de ferramentas síncronas e assíncronas que serão usadas por funcionários e alunos da instituição de ensino.
+O projeto tem como proposta a elaboração de um site para a avaliação de pratos de comida que o restaurante ‘La Chef’ irá servir, os clientes poderão colaborar com sua avaliação (que será de uma à cinco estrelas) e com comentários para poderem relatar sua experiência . Dessa forma, a empresa terá um parâmetro de como está o funcionamento, apresentação e avaliação sobre o seu restaurante, assim podendo buscar melhorias para melhor atender e agradar seus clientes.
 O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
