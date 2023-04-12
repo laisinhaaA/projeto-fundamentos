@@ -8,8 +8,8 @@
 ## *Stakeholders*
 |NOME|CARGO|E-MAIL|
 |:---|:---|:---|
-|Amara Liz Egler Cardoso|programadora|aammaaraalliizzx@gmail.com|
-|Laís Amaro da Luz batista|Gerente de Projeto|laisamaroluz@gmail.com|
+|Amara Liz Egler Cardoso|Programadora|aammaaraalliizzx@gmail.com|
+|Laís Amaro da Luz|Gerente de Projeto|laisamaroluz@gmail.com|
 |Emylly Samylly César Gritti|Designer de Interface com o Usuário|cesaremylly@gmail.com|
 | Phelipe de Souza Barbosa|Analista de Requisitos|joaophelipesouza0516@gmail.com|
 |Kauan Richard Moreira de Andrade|Analista de Testes|stokentin@gmail.com|
@@ -78,9 +78,9 @@ Para que fosse obtido os requisitos que a empresa desejava foram utilizados os s
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
-* EaD: Eaducação a Distância
-* Moodle: Ambiente Virtual que hospedará os cursos oferecidos
-* Exame Final: Avaliação destinada aos estudantes que obtiveram média anual inferior à 60 pontos
+* IFRO: Instituto Federal de Rondônia
+* UML: Linguagem de Modelagem Unificada
+* Site: Local na internet identificado por um nome de domínio
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
