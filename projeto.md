@@ -96,9 +96,9 @@ O escopo do **produto** pode ser consultado nos [requisitos do software](#requis
 ### FORA DO ESCOPO
 
 Não fazem parte do escopo do projeto:
-* Instalação e configuração do ambiente tecnológico do cliente;
-* Treinamento de instalação, configuração, administração e  utilização do sistema;
-* Integração com quaisquer sistemas ou base de dados do ambiente tecnológico do cliente.
+* Pedido de refeição e delivery;
+* Edição de feedback;
+* Efetuar reserva no restaurante.
 
 ## Usuários do sistema
 |USUÁRIO|DESCRIÇÃO|
