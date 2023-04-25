@@ -97,7 +97,7 @@ O escopo do **produto** pode ser consultado nos [requisitos do software](#requis
 
 Não fazem parte do escopo do projeto:
 * Pedido de refeição e delivery;
-* Edição de feedback;
+* Mostrar a receita dos pratos;
 * Efetuar reserva no restaurante.
 
 ## Usuários do sistema
@@ -191,8 +191,8 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-001 | Adicionar feedback | o sistema deve possibilitar a inserção de feedback/comentário dos clientes.  |
 |RF-002 | Editar feedback | o sistema deve possibilitar edições nos feedbacks/comentários |
 |RF-003 | Mostrar ranking | o sistema deve possibilitar que os pratos mais bem avaliados sejam sugeridos |
-|RF-004 | Adicionar desconto | o sistema deve possibilitar que seja adicionado à compra, caso haja, um desconto no valor total do pedido |
-|RF-005 | Enviar Notificação | o sistema deve possibilitar o envio de mensagens informativas com novidades  ou notícias |
+|RF-004 | Adicionar cupom | o sistema deve possibilitar que seja adicionado à compra no restaurante fisico, caso a meta de feedbacks seja alcançada, um desconto no valor total do próximo pedido |
+|RF-005 | Enviar Notificação | o sistema deve possibilitar o envio de mensagens informativas com novidades  ou notícias referentes ao site|
 |RF-006 | Cadastrar cliente | o sistema deve possibilitar o cadastro de novos clientes no sistema|
 
 
