@@ -188,8 +188,12 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 :---|:---|:---|
-|RF-001 |Nome do Requisito | Descreva aqui as informações sobre o requisito |
-|RF-002 | Nome do Requisito | Descreva aqui as informações sobre o segundo requisito |
+|RF-001 | Adicionar feedback | o sistema deve possibilitar a inserção de feedback/comentário dos clientes.  |
+|RF-002 | Editar feedback | o sistema deve possibilitar edições nos feedbacks/comentários |
+|RF-003 | Mostrar ranking | o sistema deve possibilitar que os pratos mais bem avaliados sejam sugeridos |
+|RF-004 | Adicionar desconto | o sistema deve possibilitar que seja adicionado à compra, caso haja, um desconto no valor total do pedido |
+|RF-005 | Enviar Notificação | o sistema deve possibilitar o envio de mensagens informativas com novidades  ou notícias |
+|RF-006 | Cadastrar cliente | o sistema deve possibilitar o cadastro de novos clientes no sistema|
 
 
 ## Requisitos Não Funcionais
