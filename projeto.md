@@ -78,9 +78,9 @@ Para que fosse obtido os requisitos que a empresa desejava foram utilizados os s
 
 Para evitar interpretações incorretas deste documento, algumas convenções e termos específicos são descritos a seguir:
 
-* IFRO: Instituto Federal de Rondônia
-* UML: Linguagem de Modelagem Unificada
-* Site: Local na internet identificado por um nome de domínio
+* IFRO: Instituto Federal de Rondônia;
+* UML: Linguagem de Modelagem Unificada;
+* Site: Local na internet identificado por um nome de domínio.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
