@@ -196,8 +196,8 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-006 | Cadastrar cliente | o sistema deve possibilitar o cadastro de novos clientes no sistema |
 |RF-007 | Alterar dados | o sistema deve possibilitar que o usuário faça alteração de seus dados pré cadastrados |
 |RF-008 | Permitir a busca de  pratos do restaurante | o sistema deve possibilitar a pesquisa dos pratos presentes no menu |
-|RF-009 | Permitir acesso dos feedbacks já feitos | O sistema deve permitir que seja apresentado, quando requisitado, os feedback já feito por um determinado usuário |
-|RF-010 | Permitir que o cliente cadastre mais de uma conta |  O sistema deve ter a disponibilidade da criação de contas alternativas do mesmo ip |
+|RF-009 | Permitir acesso dos feedbacks já feitos | o sistema deve permitir que seja apresentado, quando requisitado, os feedback já feito por um determinado usuário |
+|RF-010 | Permitir que o cliente cadastre mais de uma conta | o sistema deve ter a disponibilidade da criação de contas alternativas do mesmo ip |
 |RF-011 | Exibir avaliações | o sistema deve permitir que seja possível visualizar quantas avaliações o usuário possui |
 |RF-012 | Postar fotos | o sistema deve permitir que o cliente adicione fotos ao seu comentário |
 |RF-013 | Apagar comentários | o sistema deve permitir que o usuario delete seu comentário, caso deseje |
