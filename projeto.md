@@ -90,7 +90,7 @@ Para evitar interpretações incorretas deste documento, algumas convenções e 
 
 ### NO ESCOPO
 
-O projeto tem como proposta a elaboração de um site para a avaliação de pratos de comida que o restaurante ‘La Chef’ irá servir, os clientes poderão colaborar com sua avaliação (que será de uma à cinco estrelas) e com comentários para poderem relatar sua experiência . Dessa forma, a empresa terá um parâmetro de como está o funcionamento, apresentação e avaliação sobre o seu restaurante, assim podendo buscar melhorias para melhor atender e agradar seus clientes.
+O projeto tem como proposta a elaboração de um site para a avaliação de pratos de comida que o restaurante ‘La Chef’ irá servir, os clientes poderão colaborar com sua avaliação (que será de uma à cinco estrelas) e com comentários para poderem relatar sua experiência. Dessa forma, a empresa terá um parâmetro de como está o funcionamento, apresentação e avaliação sobre o seu restaurante, assim podendo buscar melhorias para melhor atender e agradar seus clientes.
 O escopo do **produto** pode ser consultado nos [requisitos do software](#requisitos-do-software)
 
 ### FORA DO ESCOPO
@@ -191,9 +191,19 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-001 | Adicionar feedback | o sistema deve possibilitar a inserção de feedback/comentário dos clientes.  |
 |RF-002 | Editar feedback | o sistema deve possibilitar edições nos feedbacks/comentários |
 |RF-003 | Mostrar ranking | o sistema deve possibilitar que os pratos mais bem avaliados sejam sugeridos |
-|RF-004 | Adicionar cupom | o sistema deve possibilitar que seja adicionado à compra no restaurante fisico, caso a meta de feedbacks seja alcançada, um desconto no valor total do próximo pedido |
+|RF-004 | Adicionar cupom | o sistema deve possibilitar que seja adicionado à compra em restaurante fisico, caso a meta de feedbacks do site seja alcançada, um desconto no valor total do próximo pedido em um restaurante filiado |
 |RF-005 | Enviar Notificação | o sistema deve possibilitar o envio de mensagens informativas com novidades  ou notícias referentes ao site|
-|RF-006 | Cadastrar cliente | o sistema deve possibilitar o cadastro de novos clientes no sistema|
+|RF-006 | Cadastrar cliente | o sistema deve possibilitar o cadastro de novos clientes no sistema |
+|RF-007 | Alterar dados | o sistema deve possibilitar que o usuário faça alteração de seus dados pré cadastrados |
+|RF-008 | Permitir a busca de  pratos do restaurante | o sistema deve possibilitar a pesquisa dos pratos presentes no menu |
+|RF-009 | Permitir acesso dos feedbacks já feitos | O sistema deve permitir que seja apresentado, quando requisitado, os feedback já feito por um determinado usuário |
+|RF-010 | Permitir que o cliente cadastre mais de uma conta |  O sistema deve ter a disponibilidade da criação de contas alternativas do mesmo ip |
+|RF-011 | Exibir avaliações | o sistema deve permitir que seja possível visualizar quantas avaliações o usuário possui |
+|RF-012 | Postar fotos | o sistema deve permitir que o cliente adicione fotos ao seu comentário |
+|RF-013 | Apagar comentários | o sistema deve permitir que o usuario delete seu comentário, caso deseje |
+|RF-014 | Entrar em contato com a empresa | o sistema deve possibilitar que o usuario entre em contato, por via de um chat, com a empresa |
+|RF-015 | Realizar cadastro para ser um franqueado | o sistema deve possibilitar que a pessoa interessada em abrir uma loja franqueada, possa adquirir informações sobre e entrar em contato com os donos da empresa |
+|RF-016 | Avaliar por localização | o sistema deve possibilitar que o usuario possa mostrar em que restaurante comeu, realizando a avaliação no restaurante que visitou |
 
 
 ## Requisitos Não Funcionais
@@ -201,7 +211,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 |Nome do Requisito |Descreva aqui as informações sobre o requisito |
+|RNF-001 |Implementar qualidade | o sistema deve|
 |RNF-002 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
 
 
