@@ -198,12 +198,16 @@ A tabela a seguir contém a relação dos Requisitos Funcionais elicitados, com 
 |RF-008 | Permitir a busca de  pratos do restaurante | o sistema deve possibilitar a pesquisa dos pratos presentes no menu |
 |RF-009 | Permitir acesso dos feedbacks já feitos | o sistema deve permitir que seja apresentado, quando requisitado, os feedback já feito por um determinado usuário |
 |RF-010 | Permitir que o cliente cadastre mais de uma conta | o sistema deve ter a disponibilidade da criação de contas alternativas do mesmo ip |
-|RF-011 | Exibir avaliações | o sistema deve permitir que seja possível visualizar quantas avaliações o usuário possui |
+|RF-011 | Exibir avaliações | o sistema deve permitir que seja possível visualizar quantas avaliações o usuário possui | 
 |RF-012 | Postar fotos | o sistema deve permitir que o cliente adicione fotos ao seu comentário |
 |RF-013 | Apagar comentários | o sistema deve permitir que o usuario delete seu comentário, caso deseje |
 |RF-014 | Entrar em contato com a empresa | o sistema deve possibilitar que o usuario entre em contato, por via de um chat, com a empresa |
 |RF-015 | Realizar cadastro para ser um franqueado | o sistema deve possibilitar que a pessoa interessada em abrir uma loja franqueada, possa adquirir informações sobre e entrar em contato com os donos da empresa |
 |RF-016 | Avaliar por localização | o sistema deve possibilitar que o usuario possa mostrar em que restaurante comeu, realizando a avaliação no restaurante que visitou |
+|RF-017 | Favoritar produtos | o sistema deve possibilitar que o cliente favorite seus pratos prediletos |
+|RF-018 | Avaliar atendimento | o sistema deve possibilitar que o cliente avalie, além dos pratos, o atendimento onde degustaram o mesmo |
+|RF-019 | Demonstrar lista de desejos | o sistema deverá permitir e mostrar ao cliente sua lista de pratos que ainda deseja experimentar ou avaliar em uma proxima ida ao restaurante |
+|RF-020 | Exibir valores | o sistema deve permitir que o usuario visualize, caso deseje, o valor de determinado prato |
 
 
 ## Requisitos Não Funcionais
