@@ -222,7 +222,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-005 | Internet de qualidade | possui uma rede de internet que faça o site funcionar de forma rápida, com cerca de 15 Mbps para que funcione sem gerar demoras |
 |RNF-006 | Privacidade | o site não deve mostrar aos outros usuários dados pessoais como: CPF, endereço e telefone de outros usuários |
 |RNF-007 | Backup | o sistema deve realizar backup automaticamente à meia noite  |
-|RNF-008 | Suporte manual | o site deve fornecer uma parte dedicada para retirar duvidas e solucionar problemas com algum operário do setor|
+|RNF-008 | Suporte | o site deve fornecer uma pagina que traga explicações de duvidas comuns que podem surgir ao cliente|
 |RNF-009 | Design flexivel | o site deve ser flexivel em questões de design, como o uso da responsividade devido a redução de tela, entre outros |
 |RNF-010 | Manutenção | o site deve se manter atualizado e reparado constantemente |
 
