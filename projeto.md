@@ -215,7 +215,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 | IDENTIFICADOR | NOME | DESCRIÇÃO |
 |:---|:---|:---|
-|RNF-001 | Fotos com boa qualidade | o sistema deve conter fotos com boa qualidade dos produtos catalogados|
+|RNF-001 | Política de cookies | o site deve apresentar a política de cookies para que seja melhorado a experiência dos usuários no uso do site |
 |RNF-002 | Organização do sistema | o sistema deve ser um site organizado, para maior compreensão dos usuários |
 |RNF-003 | Compatibilidade | o site deve ser compativel com os sistemas operacionais: iOS, Android e Windows |
 |RNF-004 | Requisitos legais | o sistema deverá atender às normas legais, tais como padrões, leis, etc |
