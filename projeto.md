@@ -218,7 +218,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |RNF-001 | Fotos com boa qualidade | o sistema deve conter fotos com boa qualidade dos produtos catalogados|
 |RNF-002 | Organização do sistema | o sistema deve ser um site organizado, para maior compreensão dos usuários |
 |RNF-003 | Tipos de dispositivos | o site deve possibilitar o acesso por celulares e computadores que cumprem os requisitos de hardware e conexão |
-|RNF-004 | Requisitos minimos do sistema | a plataforma pela qual o usuario ira acessar o ste, deve possuir ao menos 4gb de ram para um bom funcionamento, com uma boa velocidade |
+|RNF-004 | Requisitos minimos do sistema | a plataforma pela qual o usuario ira acessar o site, deve possuir ao menos 4gb de ram para um bom funcionamento, com uma boa velocidade |
 |RNF-005 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
 |RNF-006 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
 |RNF-007 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
