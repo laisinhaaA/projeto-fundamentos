@@ -217,14 +217,14 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |:---|:---|:---|
 |RNF-001 | Fotos com boa qualidade | o sistema deve conter fotos com boa qualidade dos produtos catalogados|
 |RNF-002 | Organização do sistema | o sistema deve ser um site organizado, para maior compreensão dos usuários |
-|RNF-003 | Tipos de dispositivos | o site deve possibilitar o acesso por celulares e computadores que cumprem os requisitos de hardware e conexão |
+|RNF-003 | Compatibilidade | o site deve ser compativel com os sistemas operacionais: iOS, Android e Windows |
 |RNF-004 | Requisitos minimos do sistema | a plataforma pela qual o usuario irá acessar o site, deve possuir ao menos 4gb de ram para um bom funcionamento, com uma boa velocidade |
 |RNF-005 | Internet de qualidade | possui uma rede de unternet que faça o site funcionar de forma rápida, com cerca de 15 Mbps para que funcione sem gerar demoras |
 |RNF-006 | Privacidade | o site não deve mostrar aos outros usuários dados pessoais como: CPF, endereço e telefone dos outros usuários |
 |RNF-007 | Backup | o sistema deve realizar backup automaticamente as 00 horas  |
-|RNF-008 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-009 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
-|RNF-010 |Nome do Requisito |Descreva aqui as informações sobre o segundo requisito |
+|RNF-008 | Suporte | o site deve fornecer uma parte dedidcada para retirar duvidas e solucionar problemas |
+|RNF-009 | Design flexivel | o site deve ser flexivel em questoes de design, como quebra de linha devido a redução de tela, entre outros |
+|RNF-010 | Manutenção | o site deve se manter atualizado e reparado constantemente |
 
 
 [ [INÍCIO](#fibonacci-management-system) ]
