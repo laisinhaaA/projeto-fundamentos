@@ -104,11 +104,11 @@ Não fazem parte do escopo do projeto:
 |USUÁRIO|DESCRIÇÃO|
 |:---|:---|
 |**Usuário Padrão:**|Realizam as tarefas comuns a todos os usuários, tal como: logar e enviar mensagens. Todos demais usuários estendem as funcionalidades do UsuárioPadrão|
-|**Administrador:**|Responsáveis pelo gerenciamento das entidades pertinentes à instituição e pela alocação de outros administradores|
-|**Coordenador:**|Responsáveis pela aprovação de disciplinas, turmas e matrículas realizadas pela secretaria do curso, além de ser responsável pela alocação da secretaria|
-|**Secretaria:**|Responsáveis pelo cadastramento de disciplinas e turmas, pela alocação de professores e monitores de um curso e matrículas dos alunos|
-|**Professor:**|Responsáveis pela criação do programa da disciplina através de ferramentas de planejamento e criação de atividades|
-|**Aluno:**|Seguem o programa da disciplina criada pelo professor, tendo como apoio ferramentas de comunicação, tal como: chat e fórum|
+|**Empresário (franqueador):**|Responsáveis pelo gerenciamento das entidades pertinentes à empresa e pela alocação de franqueados.|
+|**Franqueados:**|Responsáveis por aderir o nome da empresa e administrá-la por contra própria, mas recebendo informações de como o restaurante funciona: as técnicas de negociação, de atendimento e de gestão, dessa forma podendo logar sua empresa no site, responsáveis pela alocação dos administradores|
+|**Administrador:**|Responsáveis por administrar o site e colocar as informações nele para os clientes terem acesso à elas|
+|**Clientes:**|Interagem com as informações do programa do site que foi colocado pelo administrador, tendo como apoio ferramentas de comunicação, como: suporte ao cliente, número para poder entrar em contato caso precise de um atendimento personalizado|
+
 
 ## Abrangência e sistemas similares
 
