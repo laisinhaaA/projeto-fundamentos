@@ -130,20 +130,15 @@ Das ferramentas de planejamento podemos citar:
 
 ### Sistemas similares:
 
-No cenário atual da universidade se encontra um sistema que é responsável por realizar tal tarefa, denominado Virtus, porém o sistema não atende todas as necessidades, não sendo considerado satisfatório pela maioria dos usuários.
+Na época em que vivemos a tecnologia avançou muito, com isso muitas empresas integram tecnologias a suas tarefas para produzir mais, alcançar mais pessoas e conseguir fazer contato com os clientes através de comentários/críticas. Muitos sistemas estão possibilitando a venda de alimentos para pessoas direto de suas casas onde eles pedem, consomem em seu conforto e podem avaliar estas empresas.
 
-No cenário nacional encontram-se três sistemas que se destacam:
+No período atual encontram-se três sistemas que se destacam:
 
-**AulaNet:** é um ambiente de software baseado na Web, desenvolvido no Laboratório de Engenharia de Software - LES - do Departamento de Informática da PUC-Rio, para administração, criação, manutenção e participação em cursos à distância.
-WebAula: é um produto formado por soluções integradas de gerenciamento de aprendizagem, conhecimento e conteúdos on-line, resultado de uma joint venture entre as empresas Zargon e Poliedro.
+**iFood:** é uma empresa brasileira de tecnologia que se tornou referência em delivery na América Latina, ela utiliza a tecnologia para conectar consumidores, entregadores, restaurantes e levar refeições e compras à casa dos clientes. Nela a empresa cadastrada coloca em oferta seus produtos (comidas e bebidas), os clientes entram e escolhem qual empresa e qual produto ele deseja comprar, então ele realiza a compra e espera seu pedido. O cliente pode realizar avaliação da empresa e do produto, mas o foco da empresa é realizar vendas. O iFood foi criado pelos sócios Patrick Sigrist, Eduardo Baer, Guilherme Bonifácio e Felipe Fioravante em 15 de maio de 2011, em São Paulo.
 
-**TelEduc:** é um ambiente para a criação, participação e administração de cursos na Web. Ele foi concebido tendo como alvo o processo de formação de professores para informática educativa, baseado na metodologia de formação contextualizada desenvolvida por pesquisadores do Nied (Núcleo de Informática Aplicada à Educação) da Unicamp.
+**Rappi:** Rappi foi fundada na Colômbia em 2015 por Simón Borrero, Sebastián Mejía e Felipe Villamarín e hoje opera na Colômbia, Argentina, Brasil, Chile, Equador, México, Peru, Costa Rica e Uruguai. É uma empresa de entrega em domicílio de pedidos feitos em restaurantes, farmácias, lojas, supermercados e até de outros estabelecimentos sem serviço delivery ou que tenham parceria com o software.
 
-No cenário internacional os sistemas de maior porte são:
-
-**WebCT:** O WebCT é um programa que possibilita a criação de ambientes educacionais na Internet, desenvolvido pela University of British Columbia - Canadá. Ele permite a colocação do conteúdo de um curso na Internet pelo professor e, em seguida, o cadastro os alunos que participarão daquele curso. O objetivo principal é possibilitar a interação entre tais sujeitos através de ferramentas de trabalho em grupo, tais como: fóruns de discussão, chat, palestras on-line, além de facilitar a comunicação professor-aluno, através da publicação de notas e gabaritos de avaliações.
-
-**Blackboard:** é um sistema de autoria extremamente amigável, desenvolvido para ser utilizado por educadores e profissionais interessados em aplicar as novas tecnologias interativas da rede na educação, contribuindo para a metodologia de ensino presencial e potencializando o processo de ensino e aprendizagem a distância.
+**Rotten Tomatoes:**  Rotten Tomatoes é um site agregador de críticas, então ele reúne em apenas um lugar diversas críticas especializadas sobre um determinado filme ou produtos televisionados. Ele também gera uma média das críticas boas e ruins, apresentando ao público então qual a taxa de aprovação do filme, por exemplo. Baseado nessa taxa, o Rotten Tomatoes gera também um selo para o filme. Atualmente, o site possui três selos: “Certified Fresh”, “Fresh” e “Rotten”. Foi originalmente criado em 1998 por Senh Duong.
 
 ## Suposições e dependências
 O sistema necessita de um servidor web para sua hospedagem.
