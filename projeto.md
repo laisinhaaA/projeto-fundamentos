@@ -148,12 +148,19 @@ No cenário internacional os sistemas de maior porte são:
 ## Suposições e dependências
 O sistema necessita de um servidor web para sua hospedagem.
 
-Os usuários devem utilizar um computador com a seguinte configuração mínima:
+Para utilizar o sistema em um computador, o usuário deverá seguir os seguintes requisitos:
 
-* Processador Dual Core 2GHz ou superior
+* Sistema operacional Windows
 * 2Gb de memória RAM
-* 5Gb de armazenamento em disco
-* Para uso do sistema é preciso ter instalado o Java SE versão 8 e o MySql versão 8.0.28.
+* Navegador em sua versão mais recente
+* Conexão de 5Mb ou mais.
+
+Para utilizar o sistema em um celular, o usuário seguirá estes requisitos:
+
+* Sistema operacional em uma versão que seja Android ou iOS
+* 2GB de memória RAM
+* Conexão de 5Mb ou mais
+* Navegador em sua versão mais recente
 
 # ESTUDO DE VIABILIDADE
 
