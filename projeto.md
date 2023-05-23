@@ -117,17 +117,17 @@ Não fazem parte do escopo do projeto:
 O site “La chef” será um site cujo uso será baseado na avaliação dos pratos do restaurante. 
 O usuário, após degustar algum dos pratos do “ La chef”, poderá visitar o site e lá, depositar sua opinião sobre a comida com alguns incrementos no site .O mesmo também irá poder realizar alterações aos seus feedbacks, criar um perfil próprio (e editá-lo) e ler avaliações alheias.
 
-Dentre as ferramentas que pretendemos entregar e incrementar estão : 
+- Dentre as ferramentas que pretendemos entregar e incrementar estão : 
 
-Enviar Notificação : o sistema deve possibilitar o envio de mensagens informativas com novidades ou notícias referentes ao site.
+- Enviar Notificação : o sistema deve possibilitar o envio de mensagens informativas com novidades ou notícias referentes ao site.
 
-Cadastrar cliente : o sistema deve possibilitar o cadastro de novos clientes no sistema
+- Cadastrar cliente : o sistema deve possibilitar o cadastro de novos clientes no sistema
 
-Alterar dados : o sistema deve possibilitar que o usuário faça alteração de seus dados pré cadastrados.
+- Alterar dados : o sistema deve possibilitar que o usuário faça alteração de seus dados pré cadastrados.
 
-Permitir a busca de pratos do restaurante : o sistema deve possibilitar a pesquisa dos pratos presentes no menu.
+- Permitir a busca de pratos do restaurante : o sistema deve possibilitar a pesquisa dos pratos presentes no menu.
 
-Postar fotos : o sistema deve permitir que o cliente adicione fotos ao seu comentário
+- Postar fotos : o sistema deve permitir que o cliente adicione fotos ao seu comentário
 
 
 ### Sistemas similares:
