@@ -114,19 +114,21 @@ Não fazem parte do escopo do projeto:
 
 ### Abrangência:
 
-O sistema irá conter ferramentas para construção de um plano de aulas que esteja de acordo com os objetivos e metodologia de uma turma ministrada pelo professor. O professor através de ferramentas (como Chat, Fórum, Base de Documentos) irá montar o programa desta disciplina que deverá ser seguido pelo aluno usuário do sistema. O professor terá a liberdade de criar atividades (textos e questionários) e determinar prazos a serem cumpridos pelos alunos. Serão armazenadas as resoluções dos alunos para serem corrigidas pelo professor posteriormente, gerando estatísticas do desempenho de cada aluno e da turma. O sistema também irá prover o gerenciamento das entidades que compõem a instituição e os usuários do sistema.
+O site “La chef” será um site cujo uso será baseado na avaliação dos pratos do restaurante. 
+O usuário, após degustar algum dos pratos do “ La chef”, poderá visitar o site e lá, depositar sua opinião sobre a comida com alguns incrementos no site .O mesmo também irá poder realizar alterações aos seus feedbacks, criar um perfil próprio (e editá-lo) e ler avaliações alheias.
 
-Dentre as ferramentas de comunicação do sistema existirão as assíncronas, como Chat, onde poderão ser feitas reuniões, discussões, explicações conjuntas ou qualquer outra atividade de comunicação. O Fórum consiste na ferramenta síncrona usada para os mesmos fins do Chat.
+Dentre as ferramentas que pretendemos entregar e incrementar estão : 
 
-Das ferramentas de planejamento podemos citar:
+Enviar Notificação : o sistema deve possibilitar o envio de mensagens informativas com novidades ou notícias referentes ao site.
 
-* **Avaliações e Exercícios:** serão criadas tarefas a serem entregues pelos alunos nos determinados prazos;
+Cadastrar cliente : o sistema deve possibilitar o cadastro de novos clientes no sistema
 
-* **Anúncios:** espaço para criação de avisos e informes aos alunos de uma determinada turma;
+Alterar dados : o sistema deve possibilitar que o usuário faça alteração de seus dados pré cadastrados.
 
-* **Manipulação de Arquivos:** haverá um diretório onde podem ser acumulados arquivos de diversos tipos pelos usuários;
+Permitir a busca de pratos do restaurante : o sistema deve possibilitar a pesquisa dos pratos presentes no menu.
 
-* **Planejamento de Aulas:** planejamento de uma aula estruturada com leituras e exercícios.
+Postar fotos : o sistema deve permitir que o cliente adicione fotos ao seu comentário
+
 
 ### Sistemas similares:
 
