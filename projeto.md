@@ -249,15 +249,15 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 
 ![Diagrama de Casos de Uso]()
-<img src='/img/casosdeuso.png' alt='logo da empresa'> 
+<img src='/img/casosdois.png' alt='logo da empresa'> 
 
 ## Descrição / Especificação dos Casos de Uso
 
-### UC-01 - Manter Conta
+### UC-01 -  Efetuar login
 
-|UC-01 - Manter Conta|           
+|UC-01 - Efetuar login|           
 |:---|
-|**Descrição/Objetivo:** O sistema deve possibilitar a edição, cadastro, alteração de dados da conta do usuário|
+|**Descrição/Objetivo:** O login deve possibilitar o acesso ao sistema|
 |**Atores: Cliente**|
 |**Pré-condições:** O usuário precisa ter um e-mail e senha caso já tenha o cadastro feito, caso contrário precisa-se registrar com: e-mail, definir senha e nome do usuário|
 |**Pós-condições:** Acesso a aplicação com os seus dados|
@@ -266,7 +266,6 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |2. Os dados do usuário serão solicitados|
 |3. O usuário clica em entrar/cadastrar|
 |4. Caso dados corretos é acessado a conta|
-|5. Se desejado é possível trocar a senha, acessar contas conectadas, alterar e-mail, trocar senha, alterar foto e encerrar a conta|
 |**FLUXOS ALTERNATIVOS / EXCESSÕES:** |
 |**A1: Campo obrigatório não preenchido** |
 |1. Uma mensagem será apresentada para o usuário, informando que existe(m) campos obrigatórios que não foram preenchidos |
