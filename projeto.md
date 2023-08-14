@@ -253,27 +253,31 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 ## Descrição / Especificação dos Casos de Uso
 
-### UC-01 - Cadastrar Professor
+### UC-01 - Manter Conta
 
-|UC-01 - Cadastrar Professor|           
+|UC-01 - Manter Conta|           
 |:---|
-|**Descrição/Objetivo:** Permite a inclusão de novos professores no Sistema|
-|**Atores: Administrador**|
-|**Pré-condições:** O usuário precisa estar cadastrado e logado|
-|**Pós-condições:** Será apresentada uma mensagem confirmando a realização do cadastro|
+|**Descrição/Objetivo:** O sistema deve possibilitar a edição, cadastro, alteração de dados da conta do usuário|
+|**Atores: Cliente**|
+|**Pré-condições:** O usuário precisa ter um e-mail e senha caso já tenha o cadastro feito, caso contrário precisa-se registrar com: e-mail, definir senha e nome do usuário|
+|**Pós-condições:** Acesso a aplicação com os seus dados|
 |**FLUXO PRINCIPAL / BÁSICO:**|
-|1. O usuário seleciona a opção cadastrar professor|
-|2. Os dados do professor são inseridos|
-|3. O usuário clica em salvar|
-|4. Um novo ID é gerado |
-|5. É apresentada uma mensagem confirmando a realização do cadastro|
+|1. O usuário seleciona se deseja cadastrar ou entrar em uma conta existente|
+|2. Os dados do usuário serão solicitados|
+|3. O usuário clica em entrar/cadastrar|
+|4. Caso dados corretos é acessado a conta|
+|5. Se desejado é possível trocar a senha, acessar contas conectadas, alterar e-mail, trocar senha, alterar foto e encerrar a conta|
 |**FLUXOS ALTERNATIVOS / EXCESSÕES:** |
 |**A1: Campo obrigatório não preenchido** |
 |1. Uma mensagem será apresentada para o usuário, informando que existe(m) campos obrigatórios que não foram preenchidos |
-|2. O cursor será posicionado no primeiro campo obrigatório que não foi preenchido |
-|**A2: Data de nascimento inválida** |
-|1. Uma mensagem será apresentada para o usuário, informando que a data informáda não é válida|
-|2. O cursor será posicionado para o campo data|
+|2. o usuário pode escolher qual ele deseja preencher primeiro|
+|**A2: Senhas não coinciedem ** |
+|1. Uma mensagem será apresentada para o usuário, informando que a senha informada é inválida|
+|2. O cursor será posicionado para o campo selecionado pelo usuário|
+|**A3: Nome de usuário indisponível ** |
+|1. Uma mensagem será apresentada para o usuário, informando que o nome do usuário já está cadastrado|
+|2. O cursor será posicionado para o campo nome de usuário|
+
 
 
 ## Matriz de Rastreabilidade
