@@ -271,7 +271,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 |**A1: Campo obrigatório não preenchido** |
 |1. Uma mensagem será apresentada para o usuário, informando que existe(m) campos obrigatórios que não foram preenchidos |
 |2. o usuário pode escolher qual ele deseja preencher primeiro|
-|**A2: Senhas não coinciedem ** |
+|**A2: Senhas não coincidem ** |
 |1. Uma mensagem será apresentada para o usuário, informando que a senha informada é inválida|
 |2. O cursor será posicionado para o campo selecionado pelo usuário|
 |**A3: Nome de usuário indisponível ** |
