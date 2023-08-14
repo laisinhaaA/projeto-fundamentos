@@ -249,6 +249,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 
 ![Diagrama de Casos de Uso](/img/use_case_placas.png)
+<img src='/img/casosdeuso.png' alt='logo da empresa' 
 
 ## Descrição / Especificação dos Casos de Uso
 
