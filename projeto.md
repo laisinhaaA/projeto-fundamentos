@@ -164,16 +164,15 @@ Para utilizar o sistema em um celular, o usuário seguirá estes requisitos:
 Uma vez definidos a necessidade para o sistema e seus requisitos de negócio, é possível compreender melhor o projeto do sistema proposto para elaborar o estudo de viabilidade com os seguintes destaques:
 
 ## Viabilidade Técnica
-Os colaboradores da empresa contratante possuem bastante experiência com aplicações desta natureza, os analistas também estão familiarizados com esta área de aplicação comercial, porém o sistema utiliza uma tecnologia nova, com a qual os analistas e programadores não estão familiarizados. No que se refere ao tamanho do sistema, trata-se de um projeto de médio porte, com baixo nível de complexidade, que não será integrado a outros sistemas, limitando-se a atender a demanda da escola no que se refere à EaD, que, atualmente possui 1.000 alunos matriculados. Conclui-se que o projeto possui viabilidade técnica, em virtude dos baixos riscos identificados.
+Os desenvolvedores do sistema estão abertos a novas experiências e a novas formas de aprendizado sobre desenvolvimento de sites. Espera-se que haja barreiras e dificuldades, mas a equipe está disposta a aprender para superar os desafios que enfrentaram. No que se trata do projeto, será de baixo porte e de baixo nível de complexidade, pois não será integrado a outros sistemas e atenderá apenas aos restaurantes com foco principal em realizar vendas, apenas armazenando as avaliações dos pratos e expondo as avaliações.
 
 ## Viabilidade Econômica
 
-Foi realizada uma análise de custo-benefício, e, mesmo com estimativas conservadoras do retorno sobre o investimento e dos benefícios totais, este projeto é viável economicamente. Após a implantação, espera-se uma melhoria na qualidade dos serviços prestados e aumento da capacidade de vagas da unidade escolar.
+Realizando-se uma análise de custos chega-se à conclusão que o projeto é viável economicamente, pois pode se observar que a empresa obterá lucros com a implementação do sistema, visto que apesar do sistema não realizar vendas, ele ainda conectará de melhor forma os restaurantes ao cliente, o restaurante irá saber o que agrada a maioria de seus clientes, obtendo uma forma eficaz de produzir produtos que serão vendidos gerando um bom valor de lucro.
 
 ## Viabilidade Organizacional
 
-Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretores e coordenadores da instituição demonstram forte interesse no projeto. Espera-se que os professores e alunos aprovem a implantação do sistema, visto que atualmente a escola não possui uma ferramenta específica para o controle das informações, o que está provocando enormes transtornos para a instituição.
-
+Sobre o ângulo organizacional, o projeto apresenta baixo risco. O site será de fácil manuseio dos funcionários, os garçons e atendentes apresentam conhecimento tecnológico básico, que é suficiente para manuseio do site. Espera-se que os clientes tenham interesse em participar do site e compartilhar sua avaliação dos pratos do La Chef.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
