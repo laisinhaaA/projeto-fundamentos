@@ -282,28 +282,28 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-Manter Usuários|UC-Adicionar Cupom|UC-Visualizar Feedback|UC-Visualizar Ranking|UC-Manter Franqueados|UC-Manter Produtos|UC-Manter Comentários|UC-Postar Fotos|UC-Adicionar Local|UC-Buscar Pratos|UC-Visualizar Valores|UC-Resgatar Cupom|UC-Favoritar Produtos|UC-Manter Lista de Desejos|UC-Manter Conta|UC-Efeturar Login|UC-Entrar em Contato com a Empresa|UC-Manter Feedbacks|UC-Adicionar Feedback|     
+| REQUISITO |UC-Manter Usuários|UC-Adicionar Cupom|UC-Visualizar Feedback|UC-Visualizar Ranking|UC-Manter Franqueados|UC-Manter Produtos|UC-Manter Comentários|UC-Postar Fotos|UC-Adicionar Local|UC-Buscar Pratos|UC-Visualizar Valores|UC-Resgatar Cupom|UC-Favoritar Produtos|UC-Manter Lista de Desejos|UC-Manter Conta|UC-Efetuar Login|UC-Entrar em Contato com a Empresa|UC-Manter Feedbacks|UC-Adicionar Feedback|     
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001| | | | | | | | | | | | | | | | | | | |
-|RF-002| | | | | | | | | | | | | | | | | | | |
-|RF-003| | | | | | | | | | | | | | | | | | | |
-|RF-004| | | | | | | | | | | | | | | | | | | |
+|RF-001| | | | | | | | | | | | | | | | | |x|x|
+|RF-002| | | | | | | | | | | | | | | | | |x| |
+|RF-003| | | |x| | | | | | | | | | | | | | | |
+|RF-004| |x| | | | | | | | | |x| | | | | | | |
 |RF-005| | | | | | | | | | | | | | | | | | | |
-|RF-006| | | | | | | | | | | | | | | | | | | |
-|RF-007| | | | | | | | | | | | | | | | | | | |
-|RF-008| | | | | | | | | | | | | | | | | | | |
-|RF-009| | | | | | | | | | | | | | | | | | | |
-|RF-010| | | | | | | | | | | | | | | | | | | |
-|RF-011| | | | | | | | | | | | | | | | | | | |
-|RF-012| | | | | | | | | | | | | | | | | | | |
-|RF-013| | | | | | | | | | | | | | | | | | | |
-|RF-014| | | | | | | | | | | | | | | | | | | |
+|RF-006|x| | | | | | | | | | | | | | |x| | | |
+|RF-007|x| | | | | | | | | | | | | | | | | | |
+|RF-008| | | | | | | | |x| | | | | | | | | | |
+|RF-009| | | | | | | | | | | | | | | | | |x| |
+|RF-010| | | | | | | | | | | | | | |x|x| | | |
+|RF-011| | |x| | | | | | | | | | | | | | | | |
+|RF-012| | | | | | | |x| | | | | | | | | | | |
+|RF-013| | | | | | |x| | | | | | | | | | | | |
+|RF-014| | | | | | | | | | | | | | | | |x| | |
 |RF-015| | | | | | | | | | | | | | | | | | | |
-|RF-016| | | | | | | | | | | | | | | | | | | |
-|RF-017| | | | | | | | | | | | | | | | | | | |
+|RF-016| | | | | | | | |x| | | | | | | | | |x|
+|RF-017| | | | | | | | | | | | |x| | | | | | |
 |RF-018| | | | | | | | | | | | | | | | | | | |
-|RF-019| | | | | | | | | | | | | | | | | | | |
-|RF-020| | | | | | | | | | | | | | | | | | | |
+|RF-019| | | | | | | | | | | | | |x| | | | | |
+|RF-020| | | | | | | | | | |x| | | | | | | | |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
