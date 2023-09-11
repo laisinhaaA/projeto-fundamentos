@@ -179,6 +179,14 @@ Do ponto de vista organizacional, este projeto apresenta baixo risco. Os diretor
 
 # Metodologia Adotada no Desenvolvimento
 
+-> Scrum:
+ 
+A metodologia Scrum tem como propósito o gerenciamento de projetos, sendo que, se bem aplicado, permite o aumento da velocidade de entrega do projeto, ao mesmo tempo que possibilita a criação de produtos com maior qualidadade, sendo hoje em dia uma das metodologias mais utilizadas pelas empresas. Diante disso, tendo em vista a necessidade de uma boa organização e comunicação da equipe, e ainda, o porte do projeto, tal metodologia é a mais adequada para garantir a eficácia do produto, já que diminui os riscos de fracasso, uma vez que, desde o início, a cada entrega de sprint é possível testar, rever os pontos não desejáveis e corrigi-los.
+
+
+
+
+
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
