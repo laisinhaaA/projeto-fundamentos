@@ -282,10 +282,28 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 ## Matriz de Rastreabilidade
 
 
-| REQUISITO |UC-01|UC-02|UC-03|UC-04|UC-05|UC-06|UC-07|UC-08|UC-09| UC-10|     
-|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
-|RF-001|X| | | | | | | | | |
-|RF-002| |X| |X| | | | | | |
+| REQUISITO |UC-Manter Usuários|UC-Adicionar Cupom|UC-Visualizar Feedback|UC-Visualizar Ranking|UC-Manter Franqueados|UC-Manter Produtos|UC-Manter Comentários|UC-Postar Fotos|UC-Adicionar Local|UC-Buscar Pratos|UC-Visualizar Valores|UC-Resgatar Cupom|UC-Favoritar Produtos|UC-Manter Lista de Desejos|UC-Manter Conta|UC-Efeturar Login|UC-Entrar em Contato com a Empresa|UC-Manter Feedbacks|UC-Adicionar Feedback|     
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|RF-001| | | | | | | | | | | | | | | | | | | |
+|RF-002| | | | | | | | | | | | | | | | | | | |
+|RF-003| | | | | | | | | | | | | | | | | | | |
+|RF-004| | | | | | | | | | | | | | | | | | | |
+|RF-005| | | | | | | | | | | | | | | | | | | |
+|RF-006| | | | | | | | | | | | | | | | | | | |
+|RF-007| | | | | | | | | | | | | | | | | | | |
+|RF-008| | | | | | | | | | | | | | | | | | | |
+|RF-009| | | | | | | | | | | | | | | | | | | |
+|RF-010| | | | | | | | | | | | | | | | | | | |
+|RF-011| | | | | | | | | | | | | | | | | | | |
+|RF-012| | | | | | | | | | | | | | | | | | | |
+|RF-013| | | | | | | | | | | | | | | | | | | |
+|RF-014| | | | | | | | | | | | | | | | | | | |
+|RF-015| | | | | | | | | | | | | | | | | | | |
+|RF-016| | | | | | | | | | | | | | | | | | | |
+|RF-017| | | | | | | | | | | | | | | | | | | |
+|RF-018| | | | | | | | | | | | | | | | | | | |
+|RF-019| | | | | | | | | | | | | | | | | | | |
+|RF-020| | | | | | | | | | | | | | | | | | | |
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
