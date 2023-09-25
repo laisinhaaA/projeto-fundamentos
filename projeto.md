@@ -172,7 +172,7 @@ Realizando-se uma análise de custos chega-se à conclusão que o projeto é vi�
 
 ## Viabilidade Organizacional
 
-Sobre o ângulo organizacional, o projeto apresenta baixo risco. O site será de fácil manuseio dos funcionários, os garçons e atendentes apresentam conhecimento tecnológico básico, que é suficiente para manuseio do site. Espera-se que os clientes tenham interesse em participar do site e compartilhar sua avaliação dos pratos do La Chef.
+Sobre o ângulo organizacional, o projeto apresenta baixo risco. O site será de fácil manuseio dos funcionários, os garçons e atendentes não teram grandes dificuldades no uso do site, uso basico de tecnologias é suficiente para manuseio do site. Espera-se que os clientes tenham interesse em participar do site e compartilhar sua avaliação dos pratos do La Chef.
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
