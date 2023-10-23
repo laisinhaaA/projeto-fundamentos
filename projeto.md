@@ -322,7 +322,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
-<img src='/img/AdicionarFeeback.png' alt='logo da empresa'> 
+<img src='/img/Adicionar Feedback.png' alt='Diagrama de sequencias' width='200px' heidth='200px'/> 
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
