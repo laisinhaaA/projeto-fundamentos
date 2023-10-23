@@ -322,6 +322,8 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 
 # Diagrama de Sequências
 
+<img src='/img/Adicionar Feeback.png' alt='logo da empresa'> 
+
 [ [INÍCIO](#fibonacci-management-system) ]
 
 # Diagrama de Atividades
