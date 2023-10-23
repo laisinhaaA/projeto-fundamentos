@@ -325,7 +325,7 @@ A tabela a seguir contém a relação com os Requisitos Não Funcionais identifi
 <img src='/img/Adicionar Feedback.png' alt='Diagrama de sequencias 1'> 
 <img src='/img/Favoritar Produtos.png' alt='Diagrama de sequencias 2'>
 <img src='/img/cadastrar mais de uma conta.png' alt='Diagrama de sequencias 3'>
-
+<img src='/img/Cadastrar Franqueados.png' alt='Diagrama de sequencias 4'>
 
 [ [INÍCIO](#fibonacci-management-system) ]
 
